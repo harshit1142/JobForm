@@ -1,0 +1,50 @@
+<%- include("header.ejs"); -%>
+<div class="form-back">
+<div class="form">
+    <div class="form-box">
+        <h1 class="centre">JOIN US </h1><hr>
+        <form method="post" action="/form">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <label for="fname" >First Name</label>
+                        <input id="fname" name="fname" class="fname inp" type="text" required>        
+                    </div>
+                    <div class="col">
+
+                        <label for="lname">Last Name</label>
+                        <input id="lname" name="lname" class="sname inp " type="text">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label for="email" >Email-ID</label>
+                        <input type="email" name="email" class="email inp" id="email" required>
+                    </div>
+                    <div class="col">
+                        <label for="dob">DOB</label>
+                        <input type="date"  name="dob" id="dob" class="dob inp" required>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label for="year">Year Of Experience</label>
+                       <input type="number"  name="year" id="year" class="year inp" required>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label for="url">Profile URL</label>
+                       <input type="url"  name="url" id="url" class="url inp" required>
+                    </div>
+                </div>
+              
+                    <div class="col">
+                           <input type="reset" class="btnn col form-btnn" value="RESET">
+                           <input type="submit" value="SUBMIT" class="btnn col form-btnn">
+                    </div>
+            </div>
+        </form>
+    </div>
+</div>
+</div>

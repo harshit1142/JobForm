@@ -1,0 +1,36 @@
+.main{
+    overflow: hidden;
+
+    height: 700px;
+    background:radial-gradient(black 30%,rgb(70, 2, 86) );
+}
+.main-box{
+    padding-top: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main-box .first,.third{
+    color: white;
+    font-size: 85px;
+    font-weight: 900;
+}
+.main-box .sec{
+    color: orangered;
+    font-size: 85px;
+    font-weight: 900;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-box .text{
+    font-size: 15px;
+    width: 345px;
+    color: white;
+    margin: 20px 0 20px 0;
+}
+.btn-join{
+    width: 95px;
+}
+
+ 

@@ -1,0 +1,44 @@
+.form-back{
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(grey,rgb(112, 112, 58));
+  
+}
+.form{
+    color: white;
+    padding-top: 0px;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.form-box{
+    padding: 13px;
+    width: 80%;
+    height: 600px;
+    background-color: rgb(18, 15, 15);
+
+}
+.centre{
+    text-align: center;
+    color: white;
+
+}
+.inp{
+    width: 300px;
+    display: inline;
+    border: 0px;
+    box-shadow: 2px 2px 2px rgba(169, 200, 45, 0.95);
+}
+.col{
+    margin-bottom: 20px;
+}
+.form-btnn{
+    margin-top: 34px;
+    margin-left: 34px;
+}
+.green{
+    color: green;
+}

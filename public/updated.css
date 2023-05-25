@@ -1,0 +1,17 @@
+.update{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(56deg,black,yellow);
+}
+.up-box{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.up-box h1{
+    color: white;
+    font-size: 40px;
+    font-family: poppins;
+}
