@@ -16,7 +16,7 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://github.com/harshit1142/Secret-Revealing/blob/main/giff.gif)
+
 
 ## Key Features
 
@@ -42,6 +42,8 @@ $ npm install
 
 # Run the app
 $ node app.js
+
+#visit : localhost/9000
 ```
 
 > **Note**
