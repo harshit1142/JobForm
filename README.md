@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/harshit1142/JobForm"><img src="https://artimg.gympik.com/articles/wp-content/uploads/2017/12/Untitled-design6.jpg" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/harshit1142/JobForm"><img src="https://static.thenounproject.com/png/2016740-200.png" alt="JobForm.icon" width="200"></a>
   <br>
   JobForm
   <br>
